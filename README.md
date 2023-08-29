@@ -1,4 +1,3 @@
-## CCTI - CBT
-A computer based test built to test Computer beginners knowledge on computer.
+## CBT
+A computer based test built to test on Computer
 
-> **Web Url:** [http://ccti-cbt.herokuapp.com](http://ccti-cbt.herokuapp.com)
